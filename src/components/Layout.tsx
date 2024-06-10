@@ -36,8 +36,8 @@ export const Layout: React.FC = ({ children }) => {
       t.src=v;s=h.getElementsByTagName(e)[0];
       s.parentNode.insertBefore(t,s)}(window, document,'script',
       "https://d108qbqop2knzt.cloudfront.net/"+'sdk/capig-events.js');
-    cbq('init', "24302265516617");
-    cbq('loadConfig', "24302265516617");
+    cbq('init', "9042279552083434773");
+    cbq('loadConfig', "9042279552083434773");
     cbq('track', 'PageView');`}
     </script>
       <Helmet
