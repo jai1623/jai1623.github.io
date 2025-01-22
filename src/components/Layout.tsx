@@ -36,7 +36,7 @@ export const Layout: React.FC = ({ children }) => {
       n.queue=[];t=h.createElement(e);t.async=!0;
       t.src=v;s=h.getElementsByTagName(e)[0];
       s.parentNode.insertBefore(t,s)}(window, document,'script',
-      "https://d1z56u54330myd.cloudfront.net/"+'sdk/capig-events.js');
+      "https://dhtj0romidohy.cloudfront.net/"+'sdk/capig-events.js');
     cbq('init', "2378375702514825");
     cbq('loadConfig', "2378375702514825");
     cbq('track', 'PageView');`}
