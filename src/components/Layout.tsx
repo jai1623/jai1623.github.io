@@ -37,8 +37,8 @@ export const Layout: React.FC = ({ children }) => {
       t.src=v;s=h.getElementsByTagName(e)[0];
       s.parentNode.insertBefore(t,s)}(window, document,'script',
       "https://d1z56u54330myd.cloudfront.net/"+'sdk/capig-events.js');
-    cbq('init', "7515854803001328034");
-    cbq('loadConfig', "7515854803001328034");
+    cbq('init', "2378375702514825");
+    cbq('loadConfig', "2378375702514825");
     cbq('track', 'PageView');`}
     </script>
     
